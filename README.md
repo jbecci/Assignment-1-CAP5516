@@ -1,6 +1,6 @@
 # Assignment-1-CAP5516
 
-# Pneumonia Detection with Deep Learning
+# Pneumonia Detection with ResNet-18
 
 ## Dataset
 - Download from [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
